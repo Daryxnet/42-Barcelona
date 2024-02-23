@@ -1,0 +1,25 @@
+
+
+table {
+    border-collapse: collapse;
+
+}
+
+td {
+
+    text-align: center;
+    border: 10px;
+    padding: 20px;
+    font-size: 50px;
+
+}
+.cell1 {
+    background-color: rgb(81, 81, 194);
+}
+.cell2 {
+    background-color: rgb(198, 40, 50);
+}
+
+tr {
+    border: 3px solid black ;
+}
